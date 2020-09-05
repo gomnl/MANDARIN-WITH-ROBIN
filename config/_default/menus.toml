@@ -12,3 +12,13 @@
   name = "About"
   url = "about/"
   weight = 20
+  
+[[main]]
+  name = "CSR"
+  url = "CSR/"
+  weight = 20
+  
+[[main]]
+ name = "LEARN MANDARIN "
+  url = "LEARNWITHME/"
+  weight = 20
